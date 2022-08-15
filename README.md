@@ -3,6 +3,8 @@
 ## How to open - Windows 10
 Click on download in this [file](https://github.com/CassianoSalgado/lookCloser/blob/main/executables/%5BWIN%5D%20look_closer.exe). When download is finished, double-click in the app.
 
+If you see some warning, just say to open the file anyway.
+
 Wait for game init.
 
 ## How to open - macOS
