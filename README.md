@@ -1,19 +1,11 @@
 # lookCloser
 
-## How to open - Windows 10
-Click on download in this [file](https://github.com/CassianoSalgado/lookCloser/blob/main/executables/%5BWIN%5D%20look_closer.exe). When download is finished, double-click in the app.
+I wanted to make something that was reminiscent of old games and that brought the idea of you interacting directly with the game and you being the main character. I brought some elements of suspense and puzzle, to our beloved console.
 
-If you see some warning, just say to open the file anyway.
+It was developed during an introductory Python module as the final project, in just 1 week. I had no prior knowledge of the language.
 
-Wait for game init.
+## ⚠️ If you have a camera, this game uses it, just for the gameplay and nothing else
 
-## How to open - macOS
-Click on download in this [file](https://github.com/CassianoSalgado/lookCloser/blob/main/executables/%5BOSx%5D%20look_closer.zip). Double-click when finished.
+If I had more time, I would like to better develop the sites and the puzzles within them. I would add new mechanics and use a graphical interface.
 
-MacOS will open an popup like this:
-
-![popup image](https://github.com/CassianoSalgado/lookCloser/blob/main/popup.png?raw=true)
-
-To solve that, you need to enter your System Preferences, select Privacy and Security, click in the locker to unlock your preferences, and click in Open Anyway, like the image below:
-
-![system preferences](https://github.com/CassianoSalgado/lookCloser/blob/main/systemPreferences.png?raw=true)
+[Installation Guide](https://github.com/CassianoSalgado/lookCloser/wiki/Installation-Guide#how-to-open---pycharm)
